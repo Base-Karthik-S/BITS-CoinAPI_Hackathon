@@ -14,7 +14,7 @@ Track your Ethereum (ETH) investments and balances with this simple web-based cr
 
 ## Getting Started
 
-1. Visit the [Cryptocurrency Portfolio Tracker](https://Base-Karthik-S.github.io/BITS-API-Hackathon/).
+1. Visit the [Cryptocurrency Portfolio Tracker](https://Arittra-Bag.github.io/BITS-API-Hackathon/).
 
 2. Click the "Connect Wallet" button to connect your Ethereum wallet (e.g., MetaMask). Make sure your wallet is unlocked.
 
@@ -28,7 +28,7 @@ Track your Ethereum (ETH) investments and balances with this simple web-based cr
 
 This web application supports Progressive Web App (PWA) installation. To install it on your device, follow these steps:
 
-1. Visit the [Cryptocurrency Portfolio Tracker](https://Base-Karthik-S.github.io/BITS-API-Hackathon/).
+1. Visit the [Cryptocurrency Portfolio Tracker](https://Arittra-Bag.github.io/BITS-API-Hackathon/).
 
 2. Click the "Install" or "Add to Home Screen" option in your browser (if available).
 
@@ -56,4 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, you can reach out to [Karthik S](mailto:phoenix01eve@gmail.com).
+For questions or feedback, you can reach out to [Karthik S](mailto:phoenix01eve@gmail.com) or [Arittra Bag](mailto:arittrabag@gmail.com)
